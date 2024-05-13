@@ -17,10 +17,10 @@
 
 ## DeMeloned Info:
 
-Mods - F1
-Plugins - F2
-UserLibs - F3
-UserData - F4
+- Mods - F1
+- Plugins - F2
+- UserLibs - F3
+- UserData - F4
 
 ## GENERAL INFORMATION:
 
